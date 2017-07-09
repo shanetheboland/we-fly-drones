@@ -1,0 +1,15 @@
+# Site settings
+title: We Fly Drones | Aerial Photography Upstate New York
+version: "v1"
+description: "Drone photography, video, and 3d mapping can all make a huge difference to your business’s bottom line. Ask us how."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Tachyons Version
+tv: "4.7.4"
+
+# Build settings
+markdown: kramdown
+
+# Exclude this stuff
+exclude: [node_modules, gulpfile.js]
